@@ -1,0 +1,29 @@
+#Home {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PGrfchEREsuroQkAvK3CnnwLw5q8xqe2YKG1sdSc5PY8EC_i_g");
+  max-height: 500px;
+  color: white;
+  font-size: 40px;
+  font-weight:600;
+  text-align: center;
+  overflow: Scroll;
+}
+
+li {
+  display: inline-block;
+}
+
+nav {
+  position: fixed;
+  background-color: green;
+  width: 100%;
+}
+
+#About {
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  padding: 50px;
+}
